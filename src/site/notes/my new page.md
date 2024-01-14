@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-new-page/"}
+{"dg-publish":true,"permalink":"/my-new-page/","tags":["gardenEntry"]}
 ---
 
 dhs DHS ADHS KAHD KSJH DSA
